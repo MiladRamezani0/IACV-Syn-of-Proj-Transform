@@ -19,7 +19,6 @@ These methods are essential for solving problems in image alignment, camera cali
 - [Usage](#usage)
 - [Methods](#methods)
 - [Results](#results)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Installation
