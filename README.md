@@ -3,8 +3,8 @@
 ## Project Overview
 
 ![image](https://github.com/user-attachments/assets/2a08c688-9874-4384-9d7f-cb72a728f0f9)
+![image](https://github.com/user-attachments/assets/a4dc8702-fcc1-4394-9588-15b89dd48c01)
 
-![image](https://github.com/user-attachments/assets/5975e082-64db-43ab-8adf-af3513e79d34)
 
 
 This repository contains the implementation of various methods for synchronization of projective transformations in image analysis and computer vision. The project focuses on techniques such as:
@@ -17,7 +17,8 @@ This repository contains the implementation of various methods for synchronizati
 
 These methods are essential for solving problems in image alignment, camera calibration, and 3D reconstruction.
 ![image](https://github.com/user-attachments/assets/e2f80cce-8def-49b8-8b3d-d9ce6ef5780e)
-![image](https://github.com/user-attachments/assets/a4dc8702-fcc1-4394-9588-15b89dd48c01)
+
+![image](https://github.com/user-attachments/assets/5975e082-64db-43ab-8adf-af3513e79d34)
 ## Table of Contents
 
 - [Overview](#project-overview)
