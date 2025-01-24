@@ -63,11 +63,11 @@ The following methods are implemented in this repository:
 Sample outputs include synchronized projective transformations, error analysis, and visualization of the results. These outputs demonstrate the effectiveness of each method under different noise levels.
 
 ## Contributor
+Milad Ramezani Ziarani
+GitHub Profile
+LinkedIn Profile
 
-- **Milad Ramezani Ziarani**  
-  [GitHub Profile](https://github.com/MiladRamezani0)  
-https://www.linkedin.com/in/milad-ramezani-ziarani-299b23100/
-  M.Sc. in Geoinformatics Engineering, Politecnico di Milano
+M.Sc. in Geoinformatics Engineering, Politecnico di Milano
 
 ## License
 
