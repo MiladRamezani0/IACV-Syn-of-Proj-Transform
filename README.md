@@ -1,6 +1,11 @@
 # IMAGE ANALYSIS AND COMPUTER VISION
 
 ## Project Overview
+![image](https://github.com/user-attachments/assets/e2f80cce-8def-49b8-8b3d-d9ce6ef5780e)
+![image](https://github.com/user-attachments/assets/2a08c688-9874-4384-9d7f-cb72a728f0f9)
+![image](https://github.com/user-attachments/assets/a4dc8702-fcc1-4394-9588-15b89dd48c01)
+![image](https://github.com/user-attachments/assets/5975e082-64db-43ab-8adf-af3513e79d34)
+
 
 This repository contains the implementation of various methods for synchronization of projective transformations in image analysis and computer vision. The project focuses on techniques such as:
 
@@ -57,10 +62,11 @@ The following methods are implemented in this repository:
 
 Sample outputs include synchronized projective transformations, error analysis, and visualization of the results. These outputs demonstrate the effectiveness of each method under different noise levels.
 
-## Contributors
+## Contributor
 
 - **Milad Ramezani Ziarani**  
   [GitHub Profile](https://github.com/MiladRamezani0)  
+https://www.linkedin.com/in/milad-ramezani-ziarani-299b23100/
   M.Sc. in Geoinformatics Engineering, Politecnico di Milano
 
 ## License
